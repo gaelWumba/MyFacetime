@@ -13,6 +13,9 @@ class AccountViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        title = "Account"
+        view.backgroundColor = .systemGreen
     }
     
 

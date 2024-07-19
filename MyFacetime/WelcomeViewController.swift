@@ -7,11 +7,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class WelcomeViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .red
+        view.backgroundColor = .systemBlue
+        title = "Sign In"
     }
 }
 
