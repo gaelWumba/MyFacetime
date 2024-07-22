@@ -6,12 +6,12 @@ Ce clone de l'application FaceTime est réalisé avec Swift et UIKit pour la cr�
 ## Fonctionnalités
 - Appels vidéo en temps réel.
 - Authentification par email et mot de passe.
-- Interface utilisateur moderne et intuitive grâce à UIKit.
 
 ## Technologies Utilisées
 - **Langage**: Swift
 - **Framework**: UIKit
-- **API**: Stream pour les appels vidéo, Firebase pour l'authentification
+- **API**: Stream pour les appels vidéo
+- **Firebase**: Stream pour les appels vidéo,
 
 ## Captures d'écran
 
@@ -34,10 +34,3 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants :
 - Un Mac avec Xcode installé.
 - Un compte développeur Apple pour tester sur un appareil physique (facultatif mais recommandé).
 - Clé API Stream et Firebase.
-
-## Installation
-
-1. Clonez le dépôt :
-   ```sh
-   git clone https://github.com/votre-utilisateur/votre-repo.git
-   cd votre-repo
