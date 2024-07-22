@@ -23,7 +23,7 @@ Voici quelques captures d'écran de l'application :
 <img src="screenshots/signin.png" alt="Écran de connexion" width="300"/>
 *Écran de connexion.*
 
-<img src="screenshots/joincal.png" alt="Écran d'accueil" width="300"/>
+<img src="screenshots/joincall.png" alt="Écran d'accueil" width="300"/>
 *Écran d'accueil qui permet aux utilisateurs de visualiser leurs comptes, rejoindre un call et se déconnecter.*
 
 <img src="screenshots/call.png" alt="Écran d'appel" width="300"/>
