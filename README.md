@@ -26,7 +26,7 @@ Voici quelques captures d'écran de l'application :
 <img src="screenshots/joincal.png" alt="Écran d'accueil" width="300"/>
 *Écran d'accueil qui permet aux utilisateurs de visualiser leurs comptes, rejoindre un call et se déconnecter.*
 
-<img src="screenshots/call" alt="Écran d'appel" width="300"/>
+<img src="screenshots/call.png" alt="Écran d'appel" width="300"/>
 *Écran d'appel vidéo en cours.*
 
 ## Prérequis
