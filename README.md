@@ -15,17 +15,15 @@ Ce clone de l'application FaceTime est réalisé avec Swift et UIKit pour la cr�
 
 ## Captures d'écran
 
-Voici quelques captures d'écran de l'application :
-
 <img src="screenshots/signup.png" alt="Écran d'inscriptions" width="200"/>
 *Écran d'inscription.*
-##
+
 <img src="screenshots/signin.png" alt="Écran de connexion" width="200"/>
 *Écran de connexion.*
-##
+
 <img src="screenshots/joincall.png" alt="Écran d'accueil" width="200"/>
 *Écran d'accueil qui permet aux utilisateurs de visualiser leurs comptes, rejoindre un call et se déconnecter.*
-##
+
 <img src="screenshots/call.png" alt="Écran d'appel" width="200"/>
 *Écran d'appel vidéo en cours.*
 
