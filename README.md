@@ -14,6 +14,7 @@ Ce clone de l'application FaceTime est réalisé avec Swift et UIKit pour la cr�
 - **Firebase**: Stream pour les appels vidéo,
 
 ## Captures d'écran
+*Écran d'inscription.*
 
 <img src="screenshots/signup.png" alt="Écran d'inscriptions" width="200"/>
 *Écran d'inscription.*
